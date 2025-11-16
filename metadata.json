@@ -1,0 +1,5 @@
+{
+  "name": "AI Fireworks Generator",
+  "description": "An interactive fireworks display generator. Click to launch fireworks or toggle the auto-launcher for a continuous show. Adjust the size of the explosions for a more spectacular visual experience.",
+  "requestFramePermissions": []
+}
